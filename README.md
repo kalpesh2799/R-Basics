@@ -1,4 +1,8 @@
-# R-BasicsProductA <- c(12,43,25)
+# R-Basics [Grow with R]
+
+
+
+ProductA <- c(12,43,25)
 ProductB <- c(90,34,56)
 rb <- rbind(ProductA,ProductB)
 
